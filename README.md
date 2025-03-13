@@ -3,7 +3,6 @@
 📝 Project Description
 
 This project is a customized reproduction of LinkTree, a tool that allows you to group all your important links on a single web page. Developed in pure HTML and CSS, this clone follows a mobile-first approach and offers a smooth user experience thanks to carefully crafted CSS animations.
-![image](https://github.com/user-attachments/assets/9603b8c5-da8a-4d85-a013-086b09c224db)
 
 🎯 Objectives
 
