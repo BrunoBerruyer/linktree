@@ -19,7 +19,7 @@ Comply with W3C accessibility standards
 
 Mobile-first: Optimized primarily for mobile devices (360x800 dimensions)
 Responsive with no scrolling: Adapts perfectly to all screen sizes
-Modern design: Using the [insert your choice: Futurism/NeuMorphism/Glassmorphism/Minimalism/Pixel Art/Asymmetric] style
+Modern design: Using the Pixel Art style
 Pure CSS animations: 3 main animations and 3 micro-interactions without JavaScript
 W3C standards compliant: Adherence to web standards for better accessibility
 
@@ -32,7 +32,7 @@ No external dependencies or frameworks
 🚀 Installation and Launch
 
 Clone the repository
-bashCopygit clone https://github.com/your-username/project-name.git
+bashCopygit clone (https://brunoberruyer.github.io/linktree/index.html)
 cd project-name
 
 Open the project
